@@ -1,0 +1,15 @@
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.csproj.AssemblyReference.cache
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.AssemblyInfoInputs.cache
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.AssemblyInfo.cs
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.csproj.CoreCompileInputs.cache
+D:\Проекти з Антосяком\Julia\labka1\labka1\bin\Debug\net6.0\labka1.exe
+D:\Проекти з Антосяком\Julia\labka1\labka1\bin\Debug\net6.0\labka1.deps.json
+D:\Проекти з Антосяком\Julia\labka1\labka1\bin\Debug\net6.0\labka1.runtimeconfig.json
+D:\Проекти з Антосяком\Julia\labka1\labka1\bin\Debug\net6.0\labka1.dll
+D:\Проекти з Антосяком\Julia\labka1\labka1\bin\Debug\net6.0\labka1.pdb
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.dll
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\refint\labka1.dll
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.pdb
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\labka1.genruntimeconfig.cache
+D:\Проекти з Антосяком\Julia\labka1\labka1\obj\Debug\net6.0\ref\labka1.dll

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<cars>
+		<Car>
+			<model>Audi</model>
+			<number>BB4177CH</number>
+			<color>gray</color>
+			<producing_country>Україна</producing_country>
+			<date_last_inspection>22.03.2017</date_last_inspection>
+		</Car>
+		<Car>
+			<model>BMW</model>
+			<number>BA2588BA</number>
+			<color>white</color>
+			<producing_country>Канада</producing_country>
+			<date_last_inspection>25.01.2018</date_last_inspection>
+		</Car>
+		<Car>
+			<model>Tesla</model>
+			<number>BC6040CP</number>
+			<color>black</color>
+			<producing_country>США</producing_country>
+			<date_last_inspection>14.11.2018</date_last_inspection>
+		</Car>
+		<Car>
+			<model>Mazda</model>
+			<number>AE8181EX</number>
+			<color>black</color>
+			<producing_country>США</producing_country>
+			<date_last_inspection>31.07.2018</date_last_inspection>
+		</Car>
+		<Car>
+			<model>Tesla</model>
+			<number>BT6026AX</number>
+			<color>blue</color>
+			<producing_country>Ірландія</producing_country>
+			<date_last_inspection>22.01.2019</date_last_inspection>
+		</Car>
+		<Car>
+			<model>Toyota</model>
+			<number>BB5243CH</number>
+			<color>lightgrey</color>
+			<producing_country>Нідерланди</producing_country>
+			<date_last_inspection>29.03.2017</date_last_inspection>
+		</Car>
+	</cars>
+</Cars>

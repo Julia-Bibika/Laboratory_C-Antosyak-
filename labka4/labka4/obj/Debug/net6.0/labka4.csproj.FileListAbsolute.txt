@@ -1,0 +1,5 @@
+D:\Проекти з Антосяком\Julia\labka4\labka4\obj\Debug\net6.0\labka4.csproj.AssemblyReference.cache
+D:\Проекти з Антосяком\Julia\labka4\labka4\obj\Debug\net6.0\labka4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекти з Антосяком\Julia\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfoInputs.cache
+D:\Проекти з Антосяком\Julia\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfo.cs
+D:\Проекти з Антосяком\Julia\labka4\labka4\obj\Debug\net6.0\labka4.csproj.CoreCompileInputs.cache

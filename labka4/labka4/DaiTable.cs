@@ -105,10 +105,10 @@ namespace labka4
                 using (command = new SQLiteCommand("INSERT INTO " + tableName + "(pib, brend, number_car, color) " +
                     "VALUES (@pib, @brend, @number_car, @color)", conn))
                 {
-                    command.Parameters.AddWithValue("@authorName", car.pib);
-                    command.Parameters.AddWithValue("@authorSurName", car.brend);
-                    command.Parameters.AddWithValue("@price", car.number_car);
-                    command.Parameters.AddWithValue("@prize1", car.color);
+                    command.Parameters.AddWithValue("@pib", car.pib);
+                    command.Parameters.AddWithValue("@brend", car.brend);
+                    command.Parameters.AddWithValue("@number_car", car.number_car);
+                    command.Parameters.AddWithValue("@color", car.color);
                     command.ExecuteNonQuery();
                     command.CommandText = "Select seq from sqlite_sequence where name = '" + tableName + "'";
                     car.id = Convert.ToInt32(command.ExecuteScalar());
@@ -120,10 +120,10 @@ namespace labka4
                     " SET pib = @pib, brend = @brend, number_car = @number_car, color = @color" +
                     " WHERE id = @id", conn))
                 {
-                    command.Parameters.Add(new SQLiteParameter("@authorName", car.pib));
-                    command.Parameters.Add(new SQLiteParameter("@authorSurName", car.brend));
-                    command.Parameters.Add(new SQLiteParameter("@price", car.number_car));
-                    command.Parameters.Add(new SQLiteParameter("@prize1", car.color));
+                    command.Parameters.Add(new SQLiteParameter("@pib", car.pib));
+                    command.Parameters.Add(new SQLiteParameter("@brend", car.brend));
+                    command.Parameters.Add(new SQLiteParameter("@number_car", car.number_car));
+                    command.Parameters.Add(new SQLiteParameter("@color", car.color));
                     command.Parameters.Add(new SQLiteParameter("@id", car.id));
                     command.ExecuteNonQuery();
                 }
